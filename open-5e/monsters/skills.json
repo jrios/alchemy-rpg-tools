@@ -1,0 +1,20 @@
+{
+    "acrobatics": "Dexterity",
+    "animal handling": "Wisdom",
+    "arcana": "Intelligence",
+    "athletics": "Strength",
+    "deception": "Charisma",
+    "history": "Intelligence",
+    "insight": "Wisdom",
+    "intimidation": "Charisma",
+    "investigation": "Intelligence",
+    "medicine": "Wisdom",
+    "nature": "Intelligence",
+    "perception": "Wisdom",
+    "performance": "Charisma",
+    "persuasion": "Charisma",
+    "religion": "Intelligence",
+    "sleight of hand": "Dexterity",
+    "stealth": "Dexterity",
+    "survival": "Wisdom"
+}
